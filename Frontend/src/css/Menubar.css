@@ -1,0 +1,32 @@
+.menubar{
+   position: relative;
+   height : 6.5vh;
+   width : 100vw;
+   background-color : pink;
+   display: flex;
+   flex-direction: row;
+   flex-wrap : nowrap;
+   justify-content: flex-end;
+   border-top-style : solid;
+   border-bottom-style : solid;
+   border-color : black;
+   border-width: 1px;
+}
+
+.menu{
+    position: relative;
+    width : auto;
+    padding-left : 10px;
+    padding-right : 10px;
+    height : 100%;
+    border-left-style: solid;
+    border-right-style: none;
+    border-width: 1px;
+    border-color: black;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size : 1vw;
+    font-weight: 600;
+    color : black;
+}

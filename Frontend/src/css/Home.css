@@ -1,0 +1,12 @@
+.home{
+    width : 100vw;
+    height: 100vh;
+    background-color : white;    
+}
+
+.space{
+    position: relative;
+    width : 100vw;
+    height: 2.5vh;
+}
+

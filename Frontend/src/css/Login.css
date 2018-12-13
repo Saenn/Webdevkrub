@@ -1,0 +1,34 @@
+.signin{
+    width : 100vw;
+    height : 100vh;
+    background-color : orange;
+}
+
+.content{
+    position: relative;
+    width : 100vw;
+    height : 73.5vh;
+    background-color : white;
+}
+
+.myform{
+    position: absolute;
+    width : 25%;
+    height: 80%;
+    left : 10%;
+    top : 10%;
+    padding-left : 2.5%;
+    padding-right : 2.5%;
+    padding-top : 2.5%;
+}
+
+.myformarea{
+    position: absolute;
+    width : 40%;
+    height : 80%;
+    left : 40%;
+    top : 10%;
+    padding-left : 2.5%;
+    padding-right : 2.5%;
+    padding-top : 2.5%;
+}

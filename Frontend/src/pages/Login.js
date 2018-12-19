@@ -41,7 +41,7 @@ class Login extends Component{
                                 <label>Password</label>
                                 
                                 <div className="ui fluid input">
-                                    <input type="text" />
+                                    <input type="password" />
                                 </div>
                             </div>
 

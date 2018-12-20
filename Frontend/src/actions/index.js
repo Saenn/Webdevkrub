@@ -70,6 +70,22 @@ export const fetchCardSuccess = (allcard) =>{
         payload : allcard.data
     }
 }
+
+export const LOG_IN = "LOG_IN"
+export const login = () => {
+    return {
+        type: LOG_IN
+    }
+}
+
+export const LOG_OUT = "LOG_OUT"
+export const logout = () => {
+    return {
+        type: LOG_OUT
+    }
+}
+
+
 // export const SELECTED_ARTICLE = "SELECTED_ARTICLE";
 // export const selectArticle = (article) =>{
 //     return{
